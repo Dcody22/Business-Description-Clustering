@@ -1,0 +1,91 @@
+Ticker,hc_clusters,Name,GICS Sector
+AAPL,1,Apple Inc.,Information Technology
+ABBV,2,AbbVie Inc,Health Care
+ABT,2,Abbott Laboratories,Health Care
+ACN,3,Accenture Plc Class A,Information Technology
+AGN,2,Allergan Ltd,Health Care
+ALL,4,Allstate Corporation,Financials
+AMGN,2,Amgen Inc.,Health Care
+AMZN,5,"Amazon.com, Inc.",Consumer Discretionary
+AXP,6,American Express Company,Financials
+BA,3,Boeing Company,Industrials
+BIIB,2,Biogen Inc.,Health Care
+BK,6,Bank of New York Mellon Corporation,Financials
+BKNG,3,Booking Holdings Inc.,Consumer Discretionary
+BLK,6,"BlackRock, Inc.",Financials
+BMY,2,Bristol-Myers Squibb Company,Health Care
+CAT,3,Caterpillar Inc.,Industrials
+CELG,2,Celgene Corp,Health Care
+CHTR,7,"Charter Communications, Inc. Class A",Communication Services
+CL,1,Colgate-Palmolive Company,Consumer Staples
+CMCSA,7,Comcast Corporation Class A,Communication Services
+COF,6,Capital One Financial Corp,Financials
+COST,5,Costco Wholesale Corporation,Consumer Staples
+CSCO,3,"Cisco Systems, Inc.",Information Technology
+CVS,3,CVS Health Corporation,Health Care
+CVX,8,Chevron Corporation,Energy
+DD,3,"DuPont de Nemours, Inc.",Materials
+DHR,2,Danaher Corporation,Health Care
+DIS,7,Walt Disney Company,Communication Services
+DUK,8,Duke Energy Corporation,Utilities
+EMR,3,Emerson Electric Co.,Industrials
+F,1,Ford Motor Company,Consumer Discretionary
+FB,3,Meta Platforms Inc. Class A,Communication Services
+FDX,9,FedEx Corporation,Industrials
+GD,3,General Dynamics Corporation,Industrials
+GE,10,General Electric Company,Industrials
+GILD,2,"Gilead Sciences, Inc.",Health Care
+GM,1,General Motors Company,Consumer Discretionary
+GOOGL,3,Alphabet Inc. Class A,Communication Services
+GS,6,"Goldman Sachs Group, Inc.",Financials
+HAL,3,Halliburton Company,Energy
+HD,3,"Home Depot, Inc.",Consumer Discretionary
+HON,3,Honeywell International Inc.,Industrials
+IBM,1,International Business Machines Corporation,Information Technology
+INTC,10,Intel Corporation,Information Technology
+JNJ,2,Johnson & Johnson,Health Care
+JPM,6,JPMorgan Chase & Co.,Financials
+KHC,5,Kraft Heinz Company,Consumer Staples
+KO,1,Coca-Cola Company,Consumer Staples
+LLY,2,Eli Lilly and Company,Health Care
+LMT,3,Lockheed Martin Corporation,Industrials
+LOW,3,"Lowe's Companies, Inc.",Consumer Discretionary
+MA,3,Mastercard Incorporated Class A,Information Technology
+MCD,1,McDonald's Corporation,Consumer Discretionary
+MDLZ,5,"Mondelez International, Inc. Class A",Consumer Staples
+MDT,2,Medtronic Plc,Health Care
+MET,6,"MetLife, Inc.",Financials
+MMM,3,3M Company,Industrials
+MO,2,Altria Group Inc,Consumer Staples
+MRK,2,"Merck & Co., Inc.",Health Care
+MSFT,3,Microsoft Corporation,Information Technology
+NEE,8,"NextEra Energy, Inc.",Utilities
+NFLX,7,"Netflix, Inc.",Communication Services
+NKE,5,"NIKE, Inc. Class B",Consumer Discretionary
+NVDA,3,NVIDIA Corporation,Information Technology
+ORCL,3,Oracle Corporation,Information Technology
+PEP,1,"PepsiCo, Inc.",Consumer Staples
+PFE,2,Pfizer Inc.,Health Care
+PG,1,Procter & Gamble Company,Consumer Staples
+PM,2,Philip Morris International Inc.,Consumer Staples
+PYPL,3,"PayPal Holdings, Inc.",Information Technology
+QCOM,3,Qualcomm Incorporated,Information Technology
+RTN,3,Raytheon Co,Industrials
+RTX,3,Raytheon Technologies Corporation,Industrials
+SBUX,5,Starbucks Corporation,Consumer Discretionary
+SLB,3,Schlumberger NV,Energy
+SO,8,Southern Company,Utilities
+SPG,4,"Simon Property Group, Inc.",Real Estate
+T,7,AT&T Inc.,Communication Services
+TGT,5,Target Corporation,Consumer Discretionary
+TXN,3,Texas Instruments Incorporated,Information Technology
+UNH,3,UnitedHealth Group Incorporated,Health Care
+UNP,1,Union Pacific Corporation,Industrials
+UPS,9,"United Parcel Service, Inc. Class B",Industrials
+USB,6,U.S. Bancorp,Financials
+V,3,Visa Inc. Class A,Information Technology
+VZ,7,Verizon Communications Inc.,Communication Services
+WBA,1,Walgreens Boots Alliance Inc,Consumer Staples
+WFC,6,Wells Fargo & Company,Financials
+WMT,5,Walmart Inc.,Consumer Staples
+XOM,8,Exxon Mobil Corporation,Energy
