@@ -31,7 +31,7 @@ Description:
     Each document in the corpus is converted into a vector space where each term in the document is weighted according 
     to how common the word is in the document and the corpus. 
      
-    For reference, see https://scikit-learn.org/stable/modules/feature_extraction.html#text-feature-extraction
+    For reference, see https://scikit-learn.org/stable/modules/feature_extraction.html#text-feature-extraction [Section 6.2.3.4. Tf–idf term weighting]
 
     Inputs: 
         corpus (dict): Dictionary of documents with the title of each document as the key
